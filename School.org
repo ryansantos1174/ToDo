@@ -1,2 +1,7 @@
-* Test
-** TODO Test
+* September 5 2022
+** Particle Physics<2022-09-06 Tue 12:30-13:15> <2022-09-06 Tue 08:00-09:30>
+*** TODO Study for test
+*** TODO Catch up on Textbook reading
+*** TODO Finish one of the HW problems
+** QFT<2022-09-06 Tue 16:00-18:00>
+*** TODO Catch up on Notes and Reading

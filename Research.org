@@ -1,9 +1,5 @@
-* Pixels
-** TODO Setup emacs setup on laptop
-
-
-* Disappearing Tracks
-** DONE Get multiple values for sigma for classifier
-** TODO Create precision and recall plots
-
-* MilliQan
+* September 6 2022<2022-09-06 Tue 18:30-20:30>
+** Pixels
+** Disappearing Tracks
+*** TODO Finish creating plots for classifier
+** MilliQan
