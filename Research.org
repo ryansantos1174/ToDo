@@ -1,4 +1,4 @@
-* September 6 2022<2022-09-06 Tue 18:30-20:30>
+* September 6 2022<2022-09-06 Tue 19:00-21:00>
 ** Pixels
 ** Disappearing Tracks
 *** TODO Finish creating plots for classifier

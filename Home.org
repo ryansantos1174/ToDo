@@ -1,3 +1,6 @@
-* TODO Car check
-* TODO Attic Screen
-Test does hisdkf
+* TODO Mow Lawn
+* TODO Clean Car
+* TODO Spider Proof Garage
+* TODO Gather tree sticks
+* TODO Replace Litter
+* TODO Github auto pull
