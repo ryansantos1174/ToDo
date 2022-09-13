@@ -1,7 +1,17 @@
 * September 5 2022
 ** Particle Physics<2022-09-06 Tue 12:30-13:15> <2022-09-06 Tue 16:00-16:30> <2022-09-06 Tue 09:00-09:30>
 *** DONE Study for test
-*** TODO Catch up on Textbook reading
-*** TODO Finish one of the HW problems
+*** DONE Catch up on Textbook reading
+*** DONE Finish one of the HW problems
 ** QFT<2022-09-06 Tue 16:45-18:45>
-*** TODO Catch up on Notes and Reading
+*** DONE Catch up on Notes and Reading
+* September 12 2022
+
+** Particle Physics
+<2022-09-13 Tue 03:00-05:00>
+*** TODO Study notes
+*** TODO Finish 1 problem
+** QFT
+<2022-09-13 Tue 12:00-12:30>
+<2022-09-13 Tue 08:30-10:00>
+*** TODO Review Notes
