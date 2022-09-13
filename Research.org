@@ -8,4 +8,5 @@
 *** TODO Finish Plots
 * September 13 2022
 ** Pixels
-*** TODO Create power on button <2022-09-13 Tue 17:00-18:00>
+*** TODO Create power on button
+SCHEDULED: <2022-09-13 Tue 17:00-18:00>
