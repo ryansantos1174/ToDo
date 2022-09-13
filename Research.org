@@ -3,3 +3,6 @@
 ** Disappearing Tracks
 *** TODO Finish creating plots for classifier
 ** MilliQan
+* September 12 2022
+** Disappearing Tracks
+*** TODO Finish Plots
