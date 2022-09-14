@@ -9,8 +9,11 @@
 
 ** Particle Physics
 SCHEDULED: <2022-09-13 Tue 15:00-17:00>
-*** TODO Study notes
-*** TODO Finish 1 problem
+*** DONE Study notes
+*** DONE Finish 1 problem
 ** QFT
 SCHEDULED: <2022-09-13 Tue 12:20-01:20>
-*** TODO Review Notes
+*** DONE Review Notes
+* September 14 2022
+** Particle Physic<2022-09-14 Wed 19:00-21:00>s
+*** TODO Finish Homework
