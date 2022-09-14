@@ -12,10 +12,12 @@
 SCHEDULED: <2022-09-13 Tue 17:00-18:00>
 * September 14 2022
 ** Pixels
-*** TODO Fix power button issue
+*** DONE Fix power button issue
 - The messages sent to the controller seem to get mixed up
+- Waiting .10 seconds before reading message might help as well
+- QProcess() might allow me to avoid mixing of messages
 *** TODO Add Peltier controller to main GUI
-*** TODO Meeting with UIC<2022-09-14 Wed 11:00-12:00>
+*** DONE Meeting with UIC<2022-09-14 Wed 11:00-12:00>
 ** Disappearing Tracks
 *** TODO Retrain model to run over multiple epochs
 *** TODO Figure out metric issue with fiducial map
