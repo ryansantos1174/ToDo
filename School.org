@@ -17,3 +17,5 @@ SCHEDULED: <2022-09-13 Tue 12:20-01:20>
 * September 14 2022
 ** Particle Physic<2022-09-14 Wed 19:00-21:00>s
 *** TODO Finish Homework
+** MISC
+*** TODO Polaris <2022-09-14 Wed 17:20-18:15>
