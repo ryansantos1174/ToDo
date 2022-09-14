@@ -8,5 +8,16 @@
 *** TODO Finish Plots
 * September 13 2022
 ** Pixels
-*** TODO Create power on button
+*** DONE Create power on button
 SCHEDULED: <2022-09-13 Tue 17:00-18:00>
+* September 14 2022
+** Pixels
+*** TODO Fix power button issue
+- The messages sent to the controller seem to get mixed up
+*** TODO Add Peltier controller to main GUI
+*** TODO Meeting with UIC<2022-09-14 Wed 11:00-12:00>
+** Disappearing Tracks
+*** TODO Retrain model to run over multiple epochs
+*** TODO Figure out metric issue with fiducial map
+** Misc
+*** TODO General Meeting<2022-09-14 Wed 09:30-10:00>
