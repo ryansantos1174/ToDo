@@ -19,3 +19,4 @@ SCHEDULED: <2022-09-13 Tue 12:20-01:20>
 *** TODO Finish Homework
 ** MISC
 *** TODO Polaris <2022-09-14 Wed 17:20-18:15>
+*** TODO Presentation<2022-09-14 Wed 14:00-15:00>

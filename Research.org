@@ -20,4 +20,4 @@ SCHEDULED: <2022-09-13 Tue 17:00-18:00>
 *** TODO Retrain model to run over multiple epochs
 *** TODO Figure out metric issue with fiducial map
 ** Misc
-*** TODO General Meeting<2022-09-14 Wed 09:30-10:00>
+*** DONE General Meeting<2022-09-14 Wed 09:30-10:00>
