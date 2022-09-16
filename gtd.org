@@ -1,0 +1,5 @@
+#+title: Important
+* DONE Make Peltier not load automatically
+* TODO Reformat Peltier Code
+* TODO Add Peltier Code to GUI
+* TODO Prettify controller
