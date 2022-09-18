@@ -1,7 +1,0 @@
-* Inbox
-** [ ]
-** Peltier Setup [0%]
-*** TODO Fix code to try not to setup at start
-*** TODO Refactor code for easy implementation into main GUI
-*** TODO Rename Files to spell Peltier correctly
-*** TODO Add Peltier controller to GUI

@@ -1,1 +1,20 @@
 #+title: Tickler
+* Classes
+** QFT 13:30-14:50 :class:
+<%%(org-class 2022 8 1 2022 12 31 4)>
+** QFT 1:30pm-2:50pm :class:
+<%%(org-class 2022 9 20 2022 12 30 2)>
+** Particle Physics 10:20am-11:40am :class:
+<%%(org-class 2022 9 20 2022 12 30 2)>
+** Particle Physics 10:20am-11:40am :class:
+<%%(org-class 2022 8 1 2022 12 31 4)>
+* Meetings
+** Disappearing Tracks 1:00pm-2:00pm :Research:
+<%%(org-class 2022 8 1 2022 12 31 1)>
+** Pixels Meeting 1:00pm-2:00pm :Research:
+<%%(org-class 2022 9 20 2022 12 30 2)>
+**  Pixels Meeting 1:00pm-2:00pm :Research:
+<%%(org-class 2022 9 20 2022 12 30 4)>
+** General Meeting 9:30am-10:00am :Research:
+<%%(org-class 2022 9 20 2022 12 30 3)>
+* Tickler
