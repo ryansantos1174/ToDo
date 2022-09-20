@@ -1,9 +1,11 @@
 #+title: inbox
 * Tasks
-** TODO Retrain NN models for 100 epochs
-** TODO Take picture of house
 ** TODO Write letter for Dr. Morsony
 ** TODO
 ** TODO Don't automatically set port
 ** TODO Have way to find port even with serial connection
 ** TODO
+** TODO Screw down memory
+** TODO Have emacs play spotify playlist in pomodoro mode
+** TODO Pay Bills
+** TODO Fix bell sound in pomodoro mode
