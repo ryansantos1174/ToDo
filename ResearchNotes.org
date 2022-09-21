@@ -3,3 +3,9 @@
 ** Pixels
 ** Disappearing Tracks
 ** MilliQan
+* 9/21/22
+** Pixels
+** Disappearing Tracks
+*** I believe the issue is with the way that I created the npz files. After evaluating on the old datasets, everything seemed fine.
+
+** MilliQan
