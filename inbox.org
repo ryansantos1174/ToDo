@@ -8,4 +8,4 @@
 ** TODO Screw down memory
 ** TODO Have emacs play spotify playlist in pomodoro mode
 ** TODO Pay Bills
-** TODO Fix bell sound in pomodoro mode
+** TODO Catch up on QFT reading
