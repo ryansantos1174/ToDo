@@ -9,3 +9,4 @@
 ** TODO Have emacs play spotify playlist in pomodoro mode
 ** TODO Pay Bills
 ** TODO Catch up on QFT reading
+** TODO Replace OS on laptop
