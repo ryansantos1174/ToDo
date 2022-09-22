@@ -1,7 +1,7 @@
 #+title: inbox
 * Tasks
 ** TODO Write letter for Dr. Morsony
-** TODO
+** TODO Setup pass in emacs
 ** TODO Don't automatically set port
 ** TODO Have way to find port even with serial connection
 ** TODO
