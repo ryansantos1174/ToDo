@@ -4,8 +4,16 @@
 ** Disappearing Tracks
 ** MilliQan
 * 9/21/22
-** Pixels
-** Disappearing Tracks
-*** I believe the issue is with the way that I created the npz files. After evaluating on the old datasets, everything seemed fine.
+** pixels
+** disappearing tracks
+*** i believe the issue is with the way that i created the npz files. after evaluating on the old datasets, everything seemed fine.
 
-** MilliQan
+** milliqan
+
+* 9/23/22
+** pixels
+** disappearing tracks
+*** The bad performance of the classifier is due to the format of the dataset.
+**** Evaluating on the original data ( not the electron data that I needed to remove the pdgid selection for) the numbers seem reasonable.
+**** If the training data is not the same as what I'm evaluating on, and I can evaluate over both the higgsino and electron datasets with both the classifier and map, I should be fine.
+** milliqan

@@ -8,12 +8,3 @@ CLOCK: [2022-09-21 Wed 11:11]--[2022-09-21 Wed 11:51] =>  0:40
 :END:
 ** Should be placed where the checkbox to turn on Arduino monitoring is
 * TODO Prettify controller
-* STRT Catch up on Particle Physics Reading
-:LOGBOOK:
-CLOCK: [2022-09-20 Tue 22:02]--[2022-09-20 Tue 22:42] =>  0:40
-CLOCK: [2022-09-20 Tue 21:58]--[2022-09-20 Tue 22:01] =>  0:03
-CLOCK: [2022-09-20 Tue 18:24]--[2022-09-20 Tue 19:04] =>  0:40
-CLOCK: [2022-09-20 Tue 17:36]--[2022-09-20 Tue 18:16] =>  0:40
-CLOCK: [2022-09-20 Tue 16:50]--[2022-09-20 Tue 17:30] =>  0:40
-:END:
-* TODO Memorize particles
