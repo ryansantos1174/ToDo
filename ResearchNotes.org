@@ -17,3 +17,9 @@
 **** Evaluating on the original data ( not the electron data that I needed to remove the pdgid selection for) the numbers seem reasonable.
 **** If the training data is not the same as what I'm evaluating on, and I can evaluate over both the higgsino and electron datasets with both the classifier and map, I should be fine.
 ** milliqan
+* 9/25/22
+** Disappearing Tracks
+*** I need to re-evaluate the fiducial map on the new set of data.
+**** I believe that the only thing that I need to change is the condor script
+**** The way that the condor job is created, it only saves the file number, so I couldn't just loop over the multiple directories, to do this without changing the code I need to just run this multiple times
+**** Actually don't need to do this because I did it before

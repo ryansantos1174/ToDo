@@ -1,12 +1,2 @@
 #+title: inbox
 * Tasks
-** TODO Write letter for Dr. Morsony
-** TODO Setup pass in emacs
-** TODO Don't automatically set port
-** TODO Have way to find port even with serial connection
-** TODO
-** TODO Screw down memory
-** TODO Have emacs play spotify playlist in pomodoro mode
-** TODO Pay Bills
-** TODO Catch up on QFT reading
-** TODO Replace OS on laptop

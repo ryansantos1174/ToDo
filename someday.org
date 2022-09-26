@@ -1,1 +1,16 @@
 #+title: Maybe
+* TODO Don't automatically set port
+* TODO Have way to find port even with serial connection
+* TODO Have emacs play spotify playlist in pomodoro mode
+* TODO Setup Note Taking (Org-roam?)
+* TODO Setup Email in emacs
+* TODO Fix icon issue with polybar
+* TODO Setup Email in emacs
+* TODO Fix icon issue with polybar
+* TODO Automount drives
+* TODO Move files around to correct drives {boot->nvme, files->sdd}
+* TODO Setup calendar
+:LOGBOOK:
+CLOCK: [2022-09-25 Sun 17:08]--[2022-09-25 Sun 17:20] =>  0:12
+:END:
+* TODO Change Color of Custom TODO states
