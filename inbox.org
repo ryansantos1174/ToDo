@@ -1,4 +1,4 @@
 #+title: inbox
 * Tasks
-** TODO Setup org roam
-** TODO Fix org-pomodoro again :(
+** TODO Setup org roam :Computer:
+** TODO Fix org-pomodoro again :( :Computer:
