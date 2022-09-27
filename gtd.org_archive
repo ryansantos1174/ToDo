@@ -112,3 +112,23 @@ CLOSED: [2022-09-24 Sat 22:49]
 :ARCHIVE_CATEGORY: gtd
 :ARCHIVE_TODO: DONE
 :END:
+
+* DONE STRT Setup pass in emacs :Computer:
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-09-26 Mon 23:17
+:ARCHIVE_FILE: ~/Dropbox/org/ToDo/gtd.org
+:ARCHIVE_CATEGORY: gtd
+:ARCHIVE_TODO: DONE
+:END:
+- Need to create a bash script to cat output to pass
+- State "STRT"       from "TODO"       [2022-09-24 Sat 22:52]
+
+* DONE STRT Setup pass in emacs :Computer:
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-09-26 Mon 23:19
+:ARCHIVE_FILE: ~/Dropbox/org/ToDo/gtd.org
+:ARCHIVE_CATEGORY: gtd
+:ARCHIVE_TODO: DONE
+:END:
+- Need to create a bash script to cat output to pass
+- State "STRT"       from "TODO"       [2022-09-24 Sat 22:52]
