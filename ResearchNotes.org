@@ -23,3 +23,15 @@
 **** I believe that the only thing that I need to change is the condor script
 **** The way that the condor job is created, it only saves the file number, so I couldn't just loop over the multiple directories, to do this without changing the code I need to just run this multiple times
 **** Actually don't need to do this because I did it before
+* 9/26/22
+** Disappearing Tracks
+*** The fiducial maps have really bad precision, I need to debug what is going on here.
+**** At 0 sigma, I believe there should be no TN or FN ( everywhere should be a hotspot, so nothing can fall outside of it)
+***** The data is showing that there are 0 false negatives, but it says there are still true negatives.
+**** I believe that the classifier is more or less working fine, I need to fix the fiducial map issues though.
+** Pixels
+*** I need to add the peltier controller to the main GUI.
+**** Hopefully PyQt does some magic and fits everything correctly, otherwise I will need to resize the GUI
+**** It does do magic!
+*** There is a large textbox that flows through the Peltier controller, I should try and put in a group box to seperate the two.
+*** The temperature reader also looks janky because it is too big.

@@ -10,5 +10,6 @@ CLOCK: [2022-09-21 Wed 11:11]--[2022-09-21 Wed 11:51] =>  0:40
 * Start STRT Setup pass in emacs :Computer:
 - Need to create a bash script to cat output to pass
 - State "STRT"       from "TODO"       [2022-09-24 Sat 22:52]
-* TODO Catch up on QFT reading :School:
+* Start Catch up on QFT reading :School:
 * Start Create graphs for Neural Network :Research:
+* DONE Particle Physics Reading
