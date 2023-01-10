@@ -1,12 +1,2 @@
 #+title: Important
-* DONE Make Peltier not load automatically
-* TODO Reformat Peltier Code :Research:
-* Start STRT Add Peltier Code to GUI :Research:
-:LOGBOOK:
-CLOCK: [2022-09-21 Wed 12:05]--[2022-09-21 Wed 12:45] =>  0:40
-CLOCK: [2022-09-21 Wed 11:11]--[2022-09-21 Wed 11:51] =>  0:40
-:END:
-** Should be placed where the checkbox to turn on Arduino monitoring is
-* Start Catch up on QFT reading :School:
-* Start Create graphs for Neural Network :Research:
-* DONE Particle Physics Reading
+* Test again
