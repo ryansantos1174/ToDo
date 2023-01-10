@@ -1,2 +1,6 @@
 #+title: inbox
-* Tasks
+* TODO Get OSUsub.py to run
+* TODO Compare Producer to python DeepSets model
+* TODO Test Peltier Controller
+* TODO Fix every org buffer tangling on save
+* TODO Add Git Branch to Emacs modeline
