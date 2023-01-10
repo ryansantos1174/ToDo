@@ -1,6 +1,2 @@
 #+title: inbox
 * Tasks
-** TODO Setup org roam :Computer:
-** TODO Fix org-pomodoro again :( :Computer:
-*** TODO Test
-*** TODO Test for Github
