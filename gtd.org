@@ -1,1 +1,4 @@
 #+title: Important
+* TODO Get osusub running
+* TODO Fix Peltier Crashing
+* TODO Test Peltier Controller
