@@ -1,4 +1,13 @@
 #+title: Important
-* TODO Get osusub running
+* STRT Get osusub running
+:LOGBOOK:
+CLOCK: [2023-01-13 Fri 11:22]--[2023-01-13 Fri 11:47] =>  0:25
+:END:
 * TODO Fix Peltier Crashing
 * TODO Test Peltier Controller
+* DONE Finish Reading for Session 2
+* DONE Finish Session 1 Code
+* DONE Setup github branch for your work on TreeMaker
+:LOGBOOK:
+CLOCK: [2023-01-13 Fri 10:50]--[2023-01-13 Fri 11:15] =>  0:25
+:END:
