@@ -1,6 +1,6 @@
 #+title: inbox
 * Tasks
-*** TODO Setup shortcut to refile todo items from org agenda
 *** TODO Compare Producer to python DeepSets model
 *** TODO Fix every org buffer tangling on save
 *** TODO Add Git Branch to Emacs modeline
+*** TODO Hang up Bikes

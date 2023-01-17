@@ -11,3 +11,15 @@ CLOCK: [2023-01-13 Fri 11:22]--[2023-01-13 Fri 11:47] =>  0:25
 :LOGBOOK:
 CLOCK: [2023-01-13 Fri 10:50]--[2023-01-13 Fri 11:15] =>  0:25
 :END:
+* DONE Setup shortcut to refile todo items from org agenda
+* DONE Hang up Bikes
+* STRT Finish Computer Homework
+* STRT Laundry
+* DONE Budget
+* WAIT Clean Windows
+- Note taken on [2023-01-14 Sat 15:52] \\
+  Have cleaned the inside windows and tracks, still need to clean the outside windows.
+* DONE Fix Doorbell
+- Note taken on [2023-01-14 Sat 22:59] \\
+  The doorbell needs double A batteries
+* TODO Finish Particle Physics Reading
