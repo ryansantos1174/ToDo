@@ -4,3 +4,4 @@
 *** TODO Fix every org buffer tangling on save
 *** TODO Add Git Branch to Emacs modeline
 *** TODO Hang up Bikes
+*** TODO Disappearing Tracks Condor push
