@@ -13,5 +13,7 @@ CLOCK: [2023-01-13 Fri 11:22]--[2023-01-13 Fri 11:47] =>  0:25
 * DONE Fix Peltier code so that values displayed in GUI are read directly from controller not from user input :Quick:
 * DONE Finish Computer Session 2 :Deadline:
 * TODO Finish Particle Homework :Deadline:
-* TODO Push Peltier Code
+* DONE Push Peltier Code
 * TODO Push Change to Disappearing Tracks
+* TODO Peltier Controller shows large value when set temp is negative
+* TODO Check Peltier Polarity control button
