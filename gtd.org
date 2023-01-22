@@ -1,9 +1,9 @@
 #+title: Important
-* TODO Get osusub running :Quick:
+* DONE Get osusub running :Quick:
 :LOGBOOK:
 CLOCK: [2023-01-13 Fri 11:22]--[2023-01-13 Fri 11:47] =>  0:25
 :END:
-* TODO Ensure Peltier is Working :Long:
+* DONE Ensure Peltier is Working :Long:
 - [ ] Does not turn on until told to do so
 - [X] Can hold temperature at 5C with Chiller
 - [-] Can Change Set Temperature
@@ -12,8 +12,12 @@ CLOCK: [2023-01-13 Fri 11:22]--[2023-01-13 Fri 11:47] =>  0:25
   - [ ] If Crash is inevitable, turn off Peltier when this happens
 * DONE Fix Peltier code so that values displayed in GUI are read directly from controller not from user input :Quick:
 * DONE Finish Computer Session 2 :Deadline:
-* TODO Finish Particle Homework :Deadline:
+* DONE Finish Particle Homework :Deadline:
 * DONE Push Peltier Code
-* TODO Push Change to Disappearing Tracks
-* TODO Peltier Controller shows large value when set temp is negative
-* TODO Check Peltier Polarity control button
+* DONE Push Change to Disappearing Tracks
+* DONE Peltier Controller shows large value when set temp is negative
+* DONE Check Peltier Polarity control button
+* TODO Setup persp mode for workspace specific buffer lists
+* TODO 1 Chapter in Modern Particle Physics
+* TODO Fix Computer Session assignments
+* TODO Read MilliQan Paper

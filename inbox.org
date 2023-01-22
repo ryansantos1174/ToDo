@@ -3,6 +3,6 @@
 *** TODO Compare Producer to python DeepSets model
 *** TODO Fix every org buffer tangling on save
 *** TODO Add Git Branch to Emacs modeline
-*** TODO Hang up Bikes
+*** DONE Hang up Bikes
 *** TODO Disappearing Tracks Condor push
-*** TODO Setup persp mode for workspace specific buffer lists
+*** TODO Read MilliQan Paper
