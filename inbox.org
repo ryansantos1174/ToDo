@@ -6,3 +6,4 @@
 *** DONE Hang up Bikes
 *** TODO Disappearing Tracks Condor push
 *** TODO Read MilliQan Paper
+*** TODO Automatically archive done todo items
