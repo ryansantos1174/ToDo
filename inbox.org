@@ -7,3 +7,6 @@
 *** TODO Disappearing Tracks Condor push
 *** TODO Read MilliQan Paper
 *** TODO Automatically archive done todo items
+*** TODO Setup Pass on Desktop
+*** TODO Setup VPN on Desktop
+*** TODO Setup SSH connections on Desktop
