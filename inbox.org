@@ -1,12 +1,2 @@
 #+title: inbox
 * Tasks
-*** TODO Compare Producer to python DeepSets model
-*** TODO Fix every org buffer tangling on save
-*** TODO Add Git Branch to Emacs modeline
-*** DONE Hang up Bikes
-*** TODO Disappearing Tracks Condor push
-*** TODO Read MilliQan Paper
-*** TODO Automatically archive done todo items
-*** TODO Setup Pass on Desktop
-*** TODO Setup VPN on Desktop
-*** TODO Setup SSH connections on Desktop

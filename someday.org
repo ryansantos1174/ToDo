@@ -1,1 +1,10 @@
 #+title: Maybe
+* TODO Fix every org buffer tangling on save
+* TODO Add Git Branch to Emacs modeline
+* TODO Read MilliQan Paper
+* TODO Setup Pass on Desktop
+* TODO Setup VPN on Desktop
+* TODO Setup SSH connections on Desktop
+* TODO Automatically archive done todo items
+* TODO Clean Car
+* TODO Install Phone Holder
